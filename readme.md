@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-For the executablefile notebook use the nbviewer jupyter link and paste the notebook link there.
+For the ExecutedFile notebook use the nbviewer jupyter link and paste the notebook link there.
 </p>
 
 <p align="center">
